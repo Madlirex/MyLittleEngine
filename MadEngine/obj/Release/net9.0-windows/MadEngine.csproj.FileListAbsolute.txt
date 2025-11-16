@@ -1,0 +1,17 @@
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\MadEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\MadEngine.AssemblyInfoInputs.cache
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\MadEngine.AssemblyInfo.cs
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\MadEngine.csproj.CoreCompileInputs.cache
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\MadEngine.sourcelink.json
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\bin\Release\net9.0-windows\MadEditor\Images\noice.png
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\bin\Release\net9.0-windows\MadEngine.exe
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\bin\Release\net9.0-windows\MadEngine.deps.json
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\bin\Release\net9.0-windows\MadEngine.runtimeconfig.json
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\bin\Release\net9.0-windows\MadEngine.dll
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\bin\Release\net9.0-windows\MadEngine.pdb
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\MadEngine.dll
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\refint\MadEngine.dll
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\MadEngine.pdb
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\MadEngine.genruntimeconfig.cache
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\obj\Release\net9.0-windows\ref\MadEngine.dll
+C:\Users\simon\Projekty\C#\MyLittleEngine\MadEngine\bin\Release\net9.0-windows\MadEditor\Images\unity.png
